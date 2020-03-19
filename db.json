@@ -1,0 +1,62 @@
+{
+    "kaos kaki": [
+      {
+        "name": "kaoskaki1",
+        "price": "10.000"
+      },
+      {
+        "name": "kaoskaki2",
+        "price": "15.000"
+      },
+      {
+        "name": "kaoskaki3",
+        "price": "20.000"
+      },
+      {
+        "name": "kaoskaki4",
+        "price": "25.000"
+      }
+    ],
+    "kanik": [
+      {
+        "name": "kanik1",
+        "price": "10.000"
+      },
+      {
+        "name": "kanik2",
+        "price": "15.000"
+      },
+      {
+        "name": "kanik3",
+        "price": "20.000"
+      }    ],
+    "masker": [
+      {
+        "name": "masker1",
+        "price": "10.000"
+      },
+      {
+        "name": "masker2",
+        "price": "15.000"
+      },
+      {
+        "name": "masker3",
+        "price": "20.000"
+      },
+      {
+        "name": "masker4",
+        "price": "25.000"
+      },
+      {
+        "name": "masker5",
+        "price": "30.000"
+      },
+      {
+        "name": "masker6",
+        "price": "35.000"
+      }
+    ],
+    "dodolan": {
+      "name": "dodolan"
+    }
+}    
